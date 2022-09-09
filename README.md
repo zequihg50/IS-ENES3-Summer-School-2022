@@ -6,4 +6,4 @@ The Institute of Informatics &amp; Telecommunications at NCSR Demokritos is deli
 
 This repository contains the code for reproducibility of one exercie proposed in the Summer School. See the attached notebook.
 
-[wind.gif](wind.gif \"segment\")
+![](wind.gif)
