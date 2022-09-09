@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- numpy
+- pandas
+- xarray
+- netCDF4
+- matplotlib
+- cartopy
+- shapely
+- pillow
